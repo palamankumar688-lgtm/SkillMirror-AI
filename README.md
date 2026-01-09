@@ -5,9 +5,9 @@ SkillMirror AI is a group project that analyzes user skills and provides persona
 
 ## Team Members
 - Aman Pal (Leader)
-- Member 2
-- Member 3
-- Member 4
+- Varun Kumar
+- Ayush Raj
+- Harshit Yadav
 
 ## Technologies Used
 - Python
